@@ -17,3 +17,19 @@ Here I'll list the projects created during the bootcamp.
 2nd Project
 ---
 
+[Design Patterns JAVA](https://lionelsu.github.io/Santander-fullstack-developer_repo/lab-padroes-projeto-java)
+
+- Technologies used:
+  - Singleton
+  - Strategy
+  - Facade
+
+3rd Project
+---
+
+[Design Patterns Spring](https://lionelsu.github.io/Santander-fullstack-developer_repo/lab-padroes-projeto-spring)
+
+- Technologies used:
+  - Singleton
+  - Strategy/Repository
+  - Facade
